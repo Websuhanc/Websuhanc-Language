@@ -3,15 +3,7 @@ Websuhanc Language
 Websuhanc Magyar nyelvi fordítások
 
 Csomag:
-Alap rendszer
-Blog
-URL Átirányítás
-Hírdetés rendszer
-Térkép
-Meghívás
-Oldaltérkép
-Social
-TMS
+Alap rendszer, Blog, URL Átirányítás, Hírdetés rendszer, Térkép, Meghívás, Oldaltérkép, Social, TMS
 
 Fordítási segédlet:
 Mindig a <![CDATA[]]> belül kell a fordítást elvégezni.
